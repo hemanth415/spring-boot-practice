@@ -1,4 +1,4 @@
-package com.practice.restful.webservices.user;
+package com.spring.boot.practice.user;
 
 /**
  * Created by hemanthponnuru on 2019-07-30

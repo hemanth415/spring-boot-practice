@@ -1,4 +1,4 @@
-package com.practice.restful.webservices.user;
+package com.spring.boot.practice.user;
 
 import org.springframework.stereotype.Component;
 

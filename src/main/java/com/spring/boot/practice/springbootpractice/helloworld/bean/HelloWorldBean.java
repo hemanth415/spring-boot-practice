@@ -1,4 +1,4 @@
-package com.practice.restful.webservices.helloworld.bean;
+package com.spring.boot.practice.helloworld.bean;
 
 /**
  * Created by hemanthponnuru on 2019-07-29

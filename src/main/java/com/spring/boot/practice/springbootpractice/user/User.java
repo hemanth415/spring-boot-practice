@@ -1,4 +1,4 @@
-package com.practice.restful.webservices.user;
+package com.spring.boot.practice.user;
 
 import javax.validation.constraints.Past;
 import javax.validation.constraints.Size;
