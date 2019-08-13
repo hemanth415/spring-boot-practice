@@ -3,3 +3,18 @@ env: flex
 handlers:
   - url: /.*
     script: this field is required, but ignored
+
+# Fix for time issues caused by health check
+readiness_check:
+  app_start_timeout_sec: 600
+
+# Fix for 502 bad requests
+resources:
+  cpu: 2
+  memory_gb: 2.3
+  disk_size_gb: 10
+  volumes:
+    - name: ramdisk1
+      volume_type: tmpfs
+      size_gb: 0.5
+

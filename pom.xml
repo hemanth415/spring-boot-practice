@@ -66,6 +66,7 @@
 				<version>2.0.0</version>
 				<configuration>
 					<version>1</version>
+					<deploy.projectId>spring-boot-application-v1</deploy.projectId>
 				</configuration>
 			</plugin>
 		</plugins>
