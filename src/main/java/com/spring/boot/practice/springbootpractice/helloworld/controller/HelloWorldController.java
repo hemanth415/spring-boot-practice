@@ -1,6 +1,6 @@
-package com.spring.boot.practice.helloworld.controller;
+package com.spring.boot.practice.springbootpractice.helloworld.controller;
 
-import com.spring.boot.practice.helloworld.bean.HelloWorldBean;
+import com.spring.boot.practice.springbootpractice.helloworld.bean.HelloWorldBean;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

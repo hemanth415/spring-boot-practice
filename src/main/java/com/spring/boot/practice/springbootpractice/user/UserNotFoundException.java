@@ -1,4 +1,4 @@
-package com.spring.boot.practice.user;
+package com.spring.boot.practice.springbootpractice.user;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
