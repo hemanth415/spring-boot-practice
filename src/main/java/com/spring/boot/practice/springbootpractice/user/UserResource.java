@@ -1,4 +1,4 @@
-package com.spring.boot.practice.user;
+package com.spring.boot.practice.springbootpractice.user;
 
 /**
  * Created by hemanthponnuru on 2019-07-30

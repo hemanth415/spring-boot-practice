@@ -1,4 +1,4 @@
-package com.spring.boot.practice.helloworld.bean;
+package com.spring.boot.practice.springbootpractice.helloworld.bean;
 
 /**
  * Created by hemanthponnuru on 2019-07-29

@@ -1,4 +1,4 @@
-package com.spring.boot.practice.user;
+package com.spring.boot.practice.springbootpractice.user;
 
 import javax.validation.constraints.Past;
 import javax.validation.constraints.Size;
