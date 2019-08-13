@@ -1,1 +1,1 @@
-# Spring Boot Practice with GCP App Engine
+# Spring Boot with GCP App Engine
